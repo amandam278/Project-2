@@ -7,6 +7,7 @@ body {
   }
  /*header*/
  header {
+    text-align: center;
  }
 /*paragraph content*/
 .text-container {
