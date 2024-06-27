@@ -22,14 +22,17 @@ body {
 }
 
 /*images*/
-.image {
+.glacierImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
 }
 
-#amandaImage{
+.amandaImage {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
     border-radius: 50%;
 }
 
