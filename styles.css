@@ -1,1 +1,22 @@
 /*page-wide*/
+body {
+    background-color:#167A6F;
+    color: black;
+    padding: 5px;
+    font-family: "Playfair Display", serif;
+  }
+ /*header*/
+ header {
+    font-family: "Playwrite US Trad", cursive;
+ }
+/*paragraph content*/
+.text-container {
+    background-color: white;
+    color: #497FA5;
+    padding: 5px;
+    line-height:2.5em;
+
+/*Footer*/
+    Footer {
+    background-color: #c3c3c3;
+}
